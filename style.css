@@ -34,3 +34,26 @@ section {
     width: 495px;
 }
 
+aside {
+    width: 450px;
+    height: 364px;
+}
+
+.container {
+    display: inline-block;
+    width: 960px;
+    height: auto;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+footer {
+    clear: both;
+}
+
